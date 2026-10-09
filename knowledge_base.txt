@@ -1,0 +1,76 @@
+[SECTION: ONCOLOGY AND CANCER RECOGNITION]
+Cancer is characterized by uncontrolled cellular proliferation and tissue invasion.
+Warning Signs (CAUTION Criteria):
+- C: Change in bowel or bladder patterns.
+- A: A lesion or sore that fails to heal after 2-3 weeks.
+- U: Unusual bleeding or abnormal discharge (e.g., hemoptysis, hematuria, postmenopausal bleeding).
+- T: Thickening or palpable mass/lump in breast tissue, testicles, lymph nodes, or soft tissue.
+- I: Indigestion, persistent dysphagia (swallowing difficulty), or early satiety.
+- O: Obvious modification in preexisting mole/nevus (ABCDE: Asymmetry, Border irregularity, Color variation, Diameter > 6mm, Evolution over time).
+- N: Nagging cough or persistent hoarseness.
+Systemic B-Symptoms: Unintentional weight loss (>10% within 6 months), persistent night sweats, and recurrent unexplained fevers.
+Clinical Protocol: Urgent referral for histological biopsy, tumor markers, and contrast cross-sectional imaging (CT, MRI, PET).
+
+[SECTION: CARDIOVASCULAR EMERGENCIES AND HYPERTENSION]
+Resting Blood Pressure Classifications:
+- Normal: <120/<80 mmHg.
+- Elevated/Stage 1: 130-139 / 80-89 mmHg.
+- Stage 2: ≥140 or ≥90 mmHg.
+- Hypertensive Crisis: Systolic >180 mmHg and/or Diastolic >120 mmHg.
+Acute Coronary Syndrome (Myocardial Infarction): Retrosternal pressure, crushing chest pain radiating to left arm, neck, or jaw, diaphoresis, dyspnea, and nausea.
+Emergency Action: Call emergency services immediately. Keep patient seated and calm. If non-allergic and advised by emergency dispatch, administer chewed Aspirin 300mg. Do not give sublingual nitrates if systolic BP < 90 mmHg.
+
+[SECTION: NEUROLOGY AND ACUTE STROKE]
+Acute Stroke Triage Protocol (BE-FAST):
+- B (Balance): Sudden ataxia, loss of coordination, or severe vertigo.
+- E (Eyes): Sudden visual field defect, diplopia, or monocular blindness.
+- F (Face): Facial asymmetry or unilateral drooping.
+- A (Arms): Unilateral motor weakness, pronator drift, or paralysis.
+- S (Speech): Dysarthria, expressive or receptive aphasia.
+- T (Time): Crucial therapeutic window. Intravenous thrombolysis (IV-rtPA) must be administered within 4.5 hours of last known normal. Mechanical thrombectomy indicated up to 24 hours in large vessel occlusions.
+Immediate Action: Immediate CT/MRI neuroimaging to rule out intracranial hemorrhage prior to antiplatelet therapy.
+
+[SECTION: RESPIRATORY DISTRESS AND ASTHMA]
+Acute Bronchospasm & Asthma Exacerbation:
+Symptoms: Expiratory wheezing, tachypnea (>25 breaths/min), intercostal retractions, inability to complete full sentences in one breath, pulsus paradoxus.
+Emergency Management:
+1. Inhaled Short-Acting Beta-2 Agonist (Salbutamol/Albuterol): 4-10 puffs via spacer every 20 minutes for the first hour.
+2. Inhaled Ipratropium Bromide for severe exacerbations.
+3. High-flow oxygen to maintain SpO2 between 93-95% (or 88-92% in chronic hypercapnic COPD patients).
+4. Systemic oral corticosteroids (Prednisolone 40-50mg).
+Call emergency services immediately if the chest becomes 'silent' (absence of wheezing due to severe airflow limitation) or if central cyanosis develops.
+
+[SECTION: ENDOCRINOLOGY AND DIABETIC EMERGENCIES]
+Hypoglycemia Management (<70 mg/dL / 3.9 mmol/L):
+Symptoms: Tremors, diaphoresis, palpitations, neuroglycopenic confusion, and irritability.
+"Rule of 15":
+1. Consume 15g of fast-acting simple carbohydrates (150ml fruit juice, 3-4 glucose tablets).
+2. Wait 15 minutes and repeat fingerprick glucose testing.
+3. If still <70 mg/dL, repeat 15g intake. Once normalized, consume complex carbohydrates (bread, meal) to prevent rebound drops.
+Unconscious Patient: Administer intramuscular Glucagon 1mg or IV Dextrose 10-25%; never place liquids in the mouth of an unresponsive patient.
+
+[SECTION: GASTROENTEROLOGY AND ACUTE ABDOMEN]
+Red-Flag Abdominal Presentations:
+- Appendicitis: Periumbilical discomfort migrating to the right lower quadrant (McBurney's point tenderness, Rovsing sign positive, rebound tenderness, low-grade fever).
+- Acute Pancreatitis: Severe epigastric pain radiating directly to the mid-back, exacerbated supine, accompanied by elevated serum lipase/amylase (>3x upper normal limit).
+- Gastrointestinal Bleeding: Upper GI source presents as hematemesis (coffee-ground emesis) or melena (black, tarry stools). Lower GI source manifests as hematochezia (fresh red blood).
+Protocol: Strict nil by mouth (NPO), fluid resuscitation with balanced crystalloids, and urgent surgical/gastroenterology consult.
+
+[SECTION: DERMATOLOGY AND ACUTE BURNS]
+Thermal Burn Triage:
+- Superficial / Partial Thickness (1st & 2nd Degree): Erythema, blistering, exquisite tenderness.
+Action: Irrigate under clean running lukewarm/cool water for at least 20 minutes immediately. Do not apply ice, butter, or oils. Cover loosely with sterile non-adherent dressing or clean plastic wrap. Do not debride intact blisters.
+- Full Thickness (3rd Degree): Waxy white, leathery, painless (nerve endings destroyed).
+Action: Urgent trauma/burn center admission. Calculate fluid resuscitation via Parkland formula (4mL x kg x %TBSA burn) for burns exceeding 15-20% total body surface area.
+
+[SECTION: IMMUNOLOGY AND ANAPHYLAXIS]
+Acute Anaphylactic Shock:
+Clinical Signs: Rapid onset hives (urticaria), angioedema (lips, tongue, uvula), stridor, bronchospasm, hypotension, gastrointestinal cramping.
+First-Line Therapy: Intramuscular Epinephrine (Adrenaline) 1:1000 dilution (0.5mg adult dose, 0.3mg pediatric) injected into the anterolateral mid-thigh immediately.
+Secondary Interventions: High-flow oxygen, aggressive IV fluid boluses (Normal Saline 1-2L), antihistamines (H1/H2 blockers), and IV Hydrocortisone. Monitor for at least 6-8 hours due to risk of biphasic reaction.
+
+[SECTION: PHARMACOLOGY AND MEDICATION TOXICOLOGY]
+Common Drug Safety & Overdose Protocols:
+- Paracetamol (Acetaminophen): Maximum adult daily ceiling is 4000mg (reduced to 2000-3000mg in chronic liver disease or elderly). Toxicity causes severe hepatotoxicity. Antidote: Intravenous N-acetylcysteine (NAC) guided by the Rumack-Matthew nomogram.
+- Opioid Overdose: Classic triad of pinpoint pupils (miosis), respiratory depression (<8 breaths/min), and altered mental status. Antidote: Naloxone 0.4mg-2mg IV/IM/Intranasal, repeated every 2-3 minutes as required.
+- NSAID Precautions: Avoid long-term Ibuprofen/Diclofenac in patients with peptic ulcer disease, chronic kidney disease (eGFR <30), or uncontrolled heart failure.
